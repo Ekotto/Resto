@@ -1,0 +1,15 @@
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.csproj.AssemblyReference.cache
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.AssemblyInfoInputs.cache
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.AssemblyInfo.cs
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.csproj.CoreCompileInputs.cache
+E:\Master Pro\Programmation C#\ProgCshap\resto\bin\Debug\net6.0\resto.exe
+E:\Master Pro\Programmation C#\ProgCshap\resto\bin\Debug\net6.0\resto.deps.json
+E:\Master Pro\Programmation C#\ProgCshap\resto\bin\Debug\net6.0\resto.runtimeconfig.json
+E:\Master Pro\Programmation C#\ProgCshap\resto\bin\Debug\net6.0\resto.dll
+E:\Master Pro\Programmation C#\ProgCshap\resto\bin\Debug\net6.0\resto.pdb
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.dll
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\refint\resto.dll
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.pdb
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\resto.genruntimeconfig.cache
+E:\Master Pro\Programmation C#\ProgCshap\resto\obj\Debug\net6.0\ref\resto.dll

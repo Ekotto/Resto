@@ -1,0 +1,33 @@
+				MENU FRIENDS FOOD
+
+Fast Food
+
+Hamburger      							 	 	1500 F
+CHEESE BURGER  								 	2000 F
+DOUBLE CHEESE BURGER 					     			2500 F
+TRIPPLE CHEESE BURGER  						 		3500 F
+BANANA BURGER  								 	2000 F
+DOUBLE STEAK BANAN BURGER  					 		3500 F
+BIG SIZE BURGER  							 	6000 F
+
+VIANDES
+
+POULET    									2000 F
+CÖTE DE PORC   								 	2000 F
+CÖTE DE BOUEF 								 	2500 F
+STEAKS HACHES (2) 							 	2000 F
+SAUCISSES (2)  								 	2000 F
+
+Menus Composés
+
+KRIBI: PORC + SAUCISSE + BURGER + FRITES   	 				4500 F
+SYDNEY: POULET +STEAK + SAUCISSE + FRITES  	 				4500 F
+RIO:ROULADE + STEAK +SAUCISSE + FRITES		 				5000 F
+
+Boissons
+
+Heineken/1664 								 	1500 F
+ICE										1000 F
+WHISKY 6 ANS		 15000F/btl				 		2000 F
+MOJITO										2000 F
+MAISON CASTEL									10000 F

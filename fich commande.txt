@@ -1,0 +1,17 @@
+SYNTAXE DES DONNEES
+
+RESTAURANT
+MENU
+Quantité
+NOM
+Téléphone
+Localisation
+";" marque la fin d'une commande
+------------------------------------------------
+lepop
+glace
+1
+Mike
+6888888
+akwa
+;
